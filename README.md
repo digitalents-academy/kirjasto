@@ -55,18 +55,18 @@ Hyödynnetään "Projects" työkalua GitHubissa.
 ### 🥅 Ensimmäiset tavoitteet
 
 Tavoitteet mistä projekti lähtee käyntiin:
-- Rest API materiaalit.
+✅ - Rest API materiaalit.
   - Siim ja Tea tukevat teorian ymmärtämisessä.
-- Backend esisuunnitelma (deadline: maantaina 11.10.): 
+✅ - Backend esisuunnitelma (deadline: maantaina 11.10.): 
   - Käyttötapaukset
   - Monta API-endpointtia
   - Muuta huomioitavaa
-- Frontend esisuunnitelma (deadline: maanantaina 11.10. tarvittaessa lisäaikaa):
+❗ - Frontend esisuunnitelma (deadline: maanantaina 11.10. tarvittaessa lisäaikaa):
   -  Käytetäänkö esim Create-react-app bundlea
   -  React routers?
   -  Material-ui?
   -  Muuta
-- UI esisuunnitelma (deadline: maantaina 11.10. )
+✅ - UI esisuunnitelma (deadline: maantaina 11.10. )
   - Inspiraatiota (dribbble)
   - Väripaletin etsiminen (5 väriä)
-  - Fonttien miettiminen (2 fonttia)
+  - Fonttien miettiminen (2 fonttia) 
