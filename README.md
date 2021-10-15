@@ -31,8 +31,8 @@ Tuotteen tarkoitus on vähintään pystyttävä tekemään seuraavat asiat:
 
 | Nimi        | Rooli       | Ryhmä       |
 | ----------- | ----------- | ----------- |
-| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija      | 🟢 🟦     |
-| [Tea Salonsaari](https://github.com/teatea136)     | Frontend devaaja (Javascript, React)       | 🟢     |
+| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija      | 🟢     |
+| [Tea Salonsaari](https://github.com/teatea136)     | Frontend devaaja (Javascript, React), UI-suunnittelija     | 🟢     |
 | [Siim Laineste](https://github.com/shiimu)      | Backend devaaja (Python, Flask, Mongodb)       | 🟦      |
 | [Boris Hiltunen](https://github.com/BorisHiltunen)   | Backend devaaja (Python, Flask)       | 🟦      |
 | [Sanjiv Rana](https://github.com/eync)   | Opettaja / Projektin asiakas       | 🟢  🟦      |
