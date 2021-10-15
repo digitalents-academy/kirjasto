@@ -70,3 +70,16 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Inspiraatiota (dribbble)
   - Väripaletin etsiminen (5 väriä)
   - Fonttien miettiminen (2 fonttia) 
+
+### 🥅 Tavoitteet (18.10. - 22.10.)
+- Frontend esisuunnitelma (deadline: maanantaina 11.10. tarvittaessa lisäaikaa):
+  -  Sanjiv ja Tea käyvät läpi
+  -  Käytetäänkö esim Create-react-app bundlea
+  -  React routers?
+  -  Material-ui?
+  -  Muuta
+- Backend
+  -  Koodaus alkanut
+  -  Endpointit listattuna repoon (readme.md)
+- UI
+  - Layout-toteutusta
