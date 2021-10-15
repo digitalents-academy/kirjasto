@@ -72,7 +72,7 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Fonttien miettiminen (2 fonttia) 
 
 ### 🥅 Tavoitteet (18.10. - 22.10.)
-- Frontend esisuunnitelma (deadline: maanantaina 11.10. tarvittaessa lisäaikaa):
+- Frontend esisuunnitelma:
   -  Sanjiv ja Tea käyvät läpi
   -  Käytetäänkö esim Create-react-app bundlea
   -  React routers?
