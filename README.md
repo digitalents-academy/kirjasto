@@ -32,10 +32,14 @@ Tuotteen tarkoitus on vähintään pystyttävä tekemään seuraavat asiat:
 | Nimi        | Rooli       | Ryhmä       |
 | ----------- | ----------- | ----------- |
 | [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija      | 🟢     |
-| [Tea Salonsaari](https://github.com/teatea136)     | Frontend devaaja (Javascript, React), UI-suunnittelija     | 🟢     |
 | [Siim Laineste](https://github.com/shiimu)      | Backend devaaja (Python, Flask, Mongodb)       | 🟦      |
 | [Boris Hiltunen](https://github.com/BorisHiltunen)   | Backend devaaja (Python, Flask)       | 🟦      |
 | [Sanjiv Rana](https://github.com/eync)   | Opettaja / Projektin asiakas       | 🟢  🟦      |
+
+#### :necktie: Tiimin entiset jäsenet
+| Nimi        | Rooli       | Ryhmä       |
+| ----------- | ----------- | ----------- |
+| [Tea Salonsaari](https://github.com/teatea136)     | Frontend devaaja (Javascript, React), UI-suunnittelija     | 🟢     |
 
 ### 🚧  Projektinhallinta
 Päivittäinen palaveri erikseen ryhmittäin:  
@@ -83,3 +87,31 @@ Tavoitteet mistä projekti lähtee käyntiin:
   -  Endpointit listattuna repoon (readme.md)
 - UI
   - Layout-toteutusta
+
+### 🥅 Tavoitteet (25.10. - 29.10.)
+- Frontend
+  - Esisuunnitelma valmis
+  - Frontend jää tauolle toistaiseksi 
+
+- Backend
+  - Mietitään V1 sisältöä
+  - Mahdollinen kirjautumisjärjestelmä (?)
+  - Maanantaina palaveri sovitaan slackissä tarkempi kellonaika
+    - Endpointit
+    - Tarkennetaan asiakkaan kanssa projektin kokonaisuutta
+    - Rest api työkalujen esittely
+    - Boris esittelee rating systeemiä
+
+- UI 
+  - On tällä hetkellä
+    - 2 layout sivua valmiina
+    - Väripaletti  
+  - Tehtävät
+    - Login sivu / pop-up ikkuna
+    - Ohjeistus sivu / pop-up ikkuna
+    - Hallintapaneeli ohjaajille
+    - Miten kommenttikenttä näkyisi
+    - Kirjan status: onko hyllyssä vai lainassa
+
+- Yleinen tavoite
+  - Sopia perjantai palaverin veto- ja sihteeri vuoroista
