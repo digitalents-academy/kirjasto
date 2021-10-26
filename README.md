@@ -95,6 +95,8 @@ Tavoitteet mistä projekti lähtee käyntiin:
 
 - Backend
   - Mietitään V1 sisältöä
+    - Boris ja Siim lähtevät purkamaan V1 sisältö kanbanin todo-tauluun ja määrittelevät ne mallin mukaisesti
+    - V1 koodaaminen jatkuu kun kortit on saatu kuntoon
   - Mahdollinen kirjautumisjärjestelmä (?)
   - Maanantaina palaveri sovitaan slackissä tarkempi kellonaika
     - Endpointit
