@@ -94,26 +94,52 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Frontend jää tauolle toistaiseksi 
 
 - Backend
-  - Mietitään V1 sisältöä
-    - Boris ja Siim lähtevät purkamaan V1 sisältö kanbanin todo-tauluun ja määrittelevät ne mallin mukaisesti
-    - V1 koodaaminen jatkuu kun kortit on saatu kuntoon
-  - Mahdollinen kirjautumisjärjestelmä (?)
-  - Maanantaina palaveri sovitaan slackissä tarkempi kellonaika
-    - Endpointit
-    - Tarkennetaan asiakkaan kanssa projektin kokonaisuutta
-    - Rest api työkalujen esittely
-    - Boris esittelee rating systeemiä
+  - ✅ Mietitään V1 sisältöä
+    - ✅ Boris ja Siim lähtevät purkamaan V1 sisältö kanbanin todo-tauluun ja määrittelevät ne mallin mukaisesti
+    - ✅ V1 koodaaminen jatkuu kun kortit on saatu kuntoon
+  - ♻️ Mahdollinen kirjautumisjärjestelmä (?)
+  - ✅  Maanantaina palaveri sovitaan slackissä tarkempi kellonaika
+    - ✅  Endpointit
+    - ✅  Tarkennetaan asiakkaan kanssa projektin kokonaisuutta
+    - ✅  Rest api työkalujen esittely
+    - ♻️ Boris esittelee rating systeemiä
 
 - UI 
   - On tällä hetkellä
     - 2 layout sivua valmiina
     - Väripaletti  
   - Tehtävät
-    - Login sivu / pop-up ikkuna
-    - Ohjeistus sivu / pop-up ikkuna
-    - Hallintapaneeli ohjaajille
+    - ♻️ Login sivu / pop-up ikkuna
+    - ♻️ Ohjeistus sivu / pop-up ikkuna
+    - ♻️ Hallintapaneeli ohjaajille
     - Miten kommenttikenttä näkyisi
-    - Kirjan status: onko hyllyssä vai lainassa
+    - ♻️ Kirjan status: onko hyllyssä vai lainassa
 
 - Yleinen tavoite
   - Sopia perjantai palaverin veto- ja sihteeri vuoroista
+
+### 🥅 Tavoitteet (1.11. - 5.11.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Boris toimii palaverin puheenjohtajana
+    - Jouni toimii sihteerinä
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+
+- Frontend
+  - Frontend projekti tauolla toistaiseksi
+
+- Backend
+  - V1 koodaus jatkuu
+  - Mahdollinen kirjautumisjärjestelmä (?)
+    - Tehdään suunnitelma kirjautumisjärjestelmän toteutuksesta
+      - Mahdollinen kevyt versio kirjautumisjärjestelmästä
+  - Boris esittelee rating systeemiä asiakkaalle 
+
+- UI
+  - Tehtävät
+    - Login pop-up ikkuna
+    - Ohjeistus pop-up ikkuna työnalla
+    - Hallintapaneeli ohjaajille
+    - Miten kommenttikenttä näkyisi
+    - Kirjan status: onko hyllyssä vai lainassa
