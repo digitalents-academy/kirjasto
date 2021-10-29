@@ -137,6 +137,7 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Boris esittelee rating systeemiä asiakkaalle 
 
 - UI
+  - Tämän hetkinen UI-suunnitelma näkyviin projektin "kirjasto" -repoon, linkkinä tai tiedostona
   - Tehtävät
     - Login pop-up ikkuna
     - Ohjeistus pop-up ikkuna työnalla
