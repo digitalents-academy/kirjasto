@@ -139,17 +139,17 @@ Tavoitteet mistä projekti lähtee käyntiin:
 - UI
   - ✅ Tämän hetkinen UI-suunnitelma näkyviin projektin "kirjasto" -repoon, linkkinä tai tiedostona
   - Tehtävät
-    - Login pop-up ikkuna
-    - Ohjeistus pop-up ikkuna työnalla
-    - Hallintapaneeli ohjaajille
-    - Miten kommenttikenttä näkyisi
-    - Kirjan status: onko hyllyssä vai lainassa
+    - ✅Login pop-up ikkuna
+    - ✅Ohjeistus pop-up ikkuna työnalla
+    - ♻️Hallintapaneeli ohjaajille
+    - ✅Miten kommenttikenttä näkyisi
+    - ✅Kirjan status: onko hyllyssä vai lainassa
 
 ### 🥅 Tavoitteet (8.11. - 12.11.)
 - Yleistä
   - Perjantai palaverin järjestys
-    - Boris toimii palaverin puheenjohtajana
-    - Jouni toimii sihteerinä
+    - jouni toimii palaverin puheenjohtajana
+    - Boris toimii sihteerinä
     - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
   - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
 
@@ -166,6 +166,6 @@ Tavoitteet mistä projekti lähtee käyntiin:
 
 - UI
   -Ohjaajien hallintapaneelin muokkaus
-    -Remove-napin selkeys.
-    -Hallintapaneelinen yleinen ulkonäkö.
-    -Kommenttikentän ulkonäkö.
+    - Remove-napin selkeys.
+    - Hallintapaneelinen yleinen ulkonäkö.
+    - Kommenttikentän ulkonäkö.
