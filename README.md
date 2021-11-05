@@ -131,9 +131,9 @@ Tavoitteet mistä projekti lähtee käyntiin:
 
 - Backend
   - V1 koodaus jatkuu
-  - Mahdollinen kirjautumisjärjestelmä (?)
-    - Tehdään suunnitelma kirjautumisjärjestelmän toteutuksesta
-      - Mahdollinen kevyt versio kirjautumisjärjestelmästä
+  - ♻️ Mahdollinen kirjautumisjärjestelmä (?)
+    - ♻️ Tehdään suunnitelma kirjautumisjärjestelmän toteutuksesta
+      - ♻️ Mahdollinen kevyt versio kirjautumisjärjestelmästä
   - ✅ Boris esittelee rating systeemiä asiakkaalle 
 
 - UI
