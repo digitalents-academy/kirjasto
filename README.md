@@ -134,13 +134,38 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Mahdollinen kirjautumisjärjestelmä (?)
     - Tehdään suunnitelma kirjautumisjärjestelmän toteutuksesta
       - Mahdollinen kevyt versio kirjautumisjärjestelmästä
-  - Boris esittelee rating systeemiä asiakkaalle 
+  - ✅ Boris esittelee rating systeemiä asiakkaalle 
 
 - UI
-  - Tämän hetkinen UI-suunnitelma näkyviin projektin "kirjasto" -repoon, linkkinä tai tiedostona
+  - ✅ Tämän hetkinen UI-suunnitelma näkyviin projektin "kirjasto" -repoon, linkkinä tai tiedostona
   - Tehtävät
     - Login pop-up ikkuna
     - Ohjeistus pop-up ikkuna työnalla
     - Hallintapaneeli ohjaajille
     - Miten kommenttikenttä näkyisi
     - Kirjan status: onko hyllyssä vai lainassa
+
+### 🥅 Tavoitteet (8.11. - 12.11.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Boris toimii palaverin puheenjohtajana
+    - Jouni toimii sihteerinä
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+
+- Frontend
+  - Frontend projekti tauolla toistaiseksi
+
+- Backend
+  - V1 koodaus jatkuu
+  - Mahdollinen kirjautumisjärjestelmä (?)
+  - Mahdollinen kevyt versio kirjautumisjärjestelmästä ja sen suunnitelman lisääminen kanban-taulukkoon.
+  - Kanban-taulukoiden tehtävien tekeminen.
+  - V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
+  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+
+- UI
+  -Ohjaajien hallintapaneelin muokkaus
+    -Remove-napin selkeys.
+    -Hallintapaneelinen yleinen ulkonäkö.
+    -Kommenttikentän ulkonäkö.
