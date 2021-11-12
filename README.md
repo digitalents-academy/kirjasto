@@ -158,11 +158,11 @@ Tavoitteet mistä projekti lähtee käyntiin:
 
 - Backend
   - V1 koodaus jatkuu
-  - Mahdollinen kirjautumisjärjestelmä (?)
-  - Mahdollinen kevyt versio kirjautumisjärjestelmästä ja sen suunnitelman lisääminen kanban-taulukkoon.
-  - Kanban-taulukoiden tehtävien tekeminen.
-  - ✅V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
-  - ✅Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+  - ♻️Mahdollinen kirjautumisjärjestelmä (?)
+  - ♻️Mahdollinen kevyt versio kirjautumisjärjestelmästä ja sen suunnitelman lisääminen kanban-taulukkoon.
+  - ♻️Kanban-taulukoiden tehtävien tekeminen.
+  - ♻️V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
+  - ♻️Kirjasto Backend puolen readme-tiedoston muokkaaminen.
 
 - UI
   -Ohjaajien hallintapaneelin muokkaus
