@@ -161,11 +161,34 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Mahdollinen kirjautumisjärjestelmä (?)
   - Mahdollinen kevyt versio kirjautumisjärjestelmästä ja sen suunnitelman lisääminen kanban-taulukkoon.
   - Kanban-taulukoiden tehtävien tekeminen.
-  - V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
-  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+  - ✅V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
+  - ✅Kirjasto Backend puolen readme-tiedoston muokkaaminen.
 
 - UI
   -Ohjaajien hallintapaneelin muokkaus
-    - Remove-napin selkeys.
-    - Hallintapaneelinen yleinen ulkonäkö.
-    - Kommenttikentän ulkonäkö.
+    - ✅Remove-napin selkeys.
+    - ✅Hallintapaneelinen yleinen ulkonäkö.
+    - ✅Kommenttikentän ulkonäkö.
+
+### 🥅 Tavoitteet (15.11. - 19.11.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Boris Sihteeri
+    - Siim puheenjohtaja
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+
+- Frontend
+  - Frontend projekti tauolla toistaiseksi
+
+- Backend
+  - V1 koodaus jatkuu
+  - Mahdollinen kirjautumisjärjestelmä (?)
+  - Mahdollinen kevyt versio kirjautumisjärjestelmästä ja sen suunnitelman lisääminen kanban-taulukkoon.
+  - Kanban-taulukoiden tehtävien tekeminen.
+  - V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
+  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+  - Jatkon selkeyttäminen
+
+- UI
+  -Ollaan jatkosta yhteydessä projektimanageriin
