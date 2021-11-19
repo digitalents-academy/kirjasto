@@ -31,15 +31,18 @@ Tuotteen tarkoitus on vähintään pystyttävä tekemään seuraavat asiat:
 
 | Nimi        | Rooli       | Ryhmä       |
 | ----------- | ----------- | ----------- |
-| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija      | 🟢     |
 | [Siim Laineste](https://github.com/shiimu)      | Backend devaaja (Python, Flask, Mongodb)       | 🟦      |
 | [Boris Hiltunen](https://github.com/BorisHiltunen)   | Backend devaaja (Python, Flask)       | 🟦      |
+| [Sakhi Hashmat](https://github.com/Sakhi97)   | Backend devaaja (Python)       | 🟦      |
 | [Sanjiv Rana](https://github.com/eync)   | Opettaja / Projektin asiakas       | 🟢  🟦      |
+
 
 #### :necktie: Tiimin entiset jäsenet
 | Nimi        | Rooli       | Ryhmä       |
 | ----------- | ----------- | ----------- |
 | [Tea Salonsaari](https://github.com/teatea136)     | Frontend devaaja (Javascript, React), UI-suunnittelija     | 🟢     |
+| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija      | 🟢     |
+
 
 ### 🚧  Projektinhallinta
 Päivittäinen palaveri erikseen ryhmittäin:  
@@ -182,13 +185,35 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Frontend projekti tauolla toistaiseksi
 
 - Backend
-  - V1 koodaus jatkuu
+  - ✅V1 koodaus jatkuu
   - Mahdollinen kirjautumisjärjestelmä (?)
   - Mahdollinen kevyt versio kirjautumisjärjestelmästä ja sen suunnitelman lisääminen kanban-taulukkoon.
   - Kanban-taulukoiden tehtävien tekeminen.
-  - V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
-  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+  -  ✅V2 koodauksen aloittaminen ja tarvittavien tehtävien laittaminen kanban-taulukkoihin.
+  -  ✅Kirjasto Backend puolen readme-tiedoston muokkaaminen.
   - Jatkon selkeyttäminen
 
 - UI
-  -Ollaan jatkosta yhteydessä projektimanageriin
+  - ✅Ollaan jatkosta yhteydessä projektimanageriin
+  
+  ### 🥅 Tavoitteet (22.11. - 26.11.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Siim Sihteeri
+    - Boris puheenjohtaja
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+
+- Frontend
+  - Frontend projekti tauolla toistaiseksi
+
+- Backend
+  - V2 koodauksen jatkaminen
+  - Kevyt versio kirjautumisjärjestelmästä 
+  - Tähän asti tehtyjen asioiden integraatio projektiin
+  - Kanban-taulukoiden tehtävien tekeminen.
+  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+  - Sakhin perehdytys projektiin (24.11.2021)
+
+- UI
+  - Valmis
