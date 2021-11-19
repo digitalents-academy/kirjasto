@@ -199,7 +199,7 @@ Tavoitteet mistä projekti lähtee käyntiin:
   ### 🥅 Tavoitteet (22.11. - 26.11.)
 - Yleistä
   - Perjantai palaverin järjestys
-    - Siim Sihteeri
+    - Sakhi Sihteeri
     - Boris puheenjohtaja
     - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
   - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
