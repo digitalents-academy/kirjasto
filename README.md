@@ -208,12 +208,35 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Frontend projekti tauolla toistaiseksi
 
 - Backend
-  - V2 koodauksen jatkaminen
-  - Kevyt versio kirjautumisjärjestelmästä 
-  - Tähän asti tehtyjen asioiden integraatio projektiin
-  - Kanban-taulukoiden tehtävien tekeminen.
-  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.
+  - ✅ V2 koodauksen jatkaminen
+  - :recycle: Kevyt versio kirjautumisjärjestelmästä 
+  - :recycle: Tähän asti tehtyjen asioiden integraatio projektiin
+  - ✅ Kanban-taulukoiden tehtävien tekeminen.
+  - ✅ Kirjasto Backend puolen readme-tiedoston muokkaaminen.(Projektin loppupuolella viimeistely)
   - Sakhin perehdytys projektiin (24.11.2021)
+
+- UI
+  - Valmis
+  
+  ### 🥅 Tavoitteet (29.11. - 3.12.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Sakhi Sihteeri
+    - Boris puheenjohtaja
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+
+- Frontend
+  - Frontend projekti tauolla toistaiseksi
+
+- Backend
+  - V3 kartan tekeminen
+  - V3 koodauksen aloittaminen
+  - Kevyt versio kirjautumisjärjestelmästä 
+  - Tähän asti tehtyjen asioiden integraatio projektiin (rating system ja login system)
+  - V3 Kanban-taulukoiden tehtävien tekeminen.
+  - Kirjasto Backend puolen readme-tiedoston muokkaaminen.(Projektin loppupuolella viimeistely)
+  - Sakhin perehdytys projektiin (29.11.2021 klo 13.00-13.45)
 
 - UI
   - Valmis
