@@ -221,22 +221,34 @@ Tavoitteet mistä projekti lähtee käyntiin:
   ### 🥅 Tavoitteet (29.11. - 3.12.)
 - Yleistä
   - Perjantai palaverin järjestys
-    - Sakhi Sihteeri
+    - Siim Sihteeri
     - Boris puheenjohtaja
     - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
-  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
-
-- Frontend
-  - Frontend projekti tauolla toistaiseksi
-
+  - :recycle: Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+    - Sakhi lue MVP mallista.
 - Backend
-  - V3 kartan tekeminen
-  - V3 koodauksen aloittaminen
-  - Kevyt versio kirjautumisjärjestelmästä 
-  - Tähän asti tehtyjen asioiden integraatio projektiin (rating system ja login system)
+  - :recycle: V3 kartan tekeminen
+  - ✅ V3 koodauksen aloittaminen
+  -  :recycle: Kevyt versio kirjautumisjärjestelmästä 
+  -  :recycle: Tähän asti tehtyjen asioiden integraatio projektiin (rating system ja login system)
+  - ✅ V3 Kanban-taulukoiden tehtävien tekeminen.
+  - :recycle: Kirjasto Backend puolen readme-tiedoston muokkaaminen.(Projektin loppupuolella viimeistely)
+  - ✅ Sakhin perehdytys projektiin (29.11.2021 klo 13.00-13.45)
+
+  ### 🥅 Tavoitteet (7.12. - 10.12.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Boris Sihteeri
+    - Siim puheenjohtaja
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
+    - Sakhi lue MVP mallista.
+- Backend
+  - V3 kartan loppuun tekeminen
+  - V3 koodauksen jatkaminen
+  - Kirjautumisjärjestelmän tekeminen
+  - Integraatio projektiin jatkuu (rating system ja login system)
   - V3 Kanban-taulukoiden tehtävien tekeminen.
   - Kirjasto Backend puolen readme-tiedoston muokkaaminen.(Projektin loppupuolella viimeistely)
-  - Sakhin perehdytys projektiin (29.11.2021 klo 13.00-13.45)
-
-- UI
-  - Valmis
+  - Siim tekee rating systemin ja Boris tekee authentication systemin integraation.
+  
