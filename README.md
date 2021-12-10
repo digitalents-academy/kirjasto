@@ -241,14 +241,29 @@ Tavoitteet mistä projekti lähtee käyntiin:
     - Boris Sihteeri
     - Siim puheenjohtaja
     - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
-  - Tutustua mitä tarkoittaa MVP (https://en.wikipedia.org/wiki/Minimum_viable_product)
-    - Sakhi lue MVP mallista.
 - Backend
-  - V3 kartan loppuun tekeminen
+  - :recycle: V3 kartan loppuun tekeminen
+  - :recycle: V3 koodauksen jatkaminen
+  - :recycle: Kirjautumisjärjestelmän tekeminen
+  - :recycle: Integraatio projektiin jatkuu (rating system ja login system)
+  - :recycle: V3 Kanban-taulukoiden tehtävien tekeminen.
+  - :recycle: Kirjasto Backend puolen readme-tiedoston muokkaaminen.(Projektin loppupuolella viimeistely)
+  - :recycle: Siim tekee rating systemin ja Boris tekee authentication systemin integraation.
+
+  ### 🥅 Tavoitteet (13.12. - 17.12.)
+- Yleistä
+  - Perjantai palaverin järjestys
+    - Boris Sihteeri
+    - Boris puheenjohtaja
+    - Roolit vaihtuu joka perjantai ja näistä sovitaan aina viikkoa etukäteen ja merkataan tavoite lokiin
+- Backend
+  - V3 kartan loppuun tekeminen maanantaina
   - V3 koodauksen jatkaminen
   - Kirjautumisjärjestelmän tekeminen
   - Integraatio projektiin jatkuu (rating system ja login system)
   - V3 Kanban-taulukoiden tehtävien tekeminen.
   - Kirjasto Backend puolen readme-tiedoston muokkaaminen.(Projektin loppupuolella viimeistely)
   - Siim tekee rating systemin ja Boris tekee authentication systemin integraation.
+  - Sakhi käy koodin läpi varmuuden vuoksi. (Tupla koodi yms.)
+  - Mahdollisesti projektin esittely maanantaina tai tiistaina.
   
