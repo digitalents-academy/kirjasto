@@ -267,3 +267,11 @@ Tavoitteet mistä projekti lähtee käyntiin:
   - Sakhi käy koodin läpi varmuuden vuoksi. (Tupla koodi yms.)
   - Mahdollisesti projektin esittely maanantaina tai tiistaina.
   
+  
+  ### Tavoitteet (27.1 -> eteenpäin)
+  
+  - Backend 
+    - Rating systeemi valmiiksi
+    - Mongodb clientin connection erroreiden selvittely
+    - Readme yms selvennys ( tyypit, kirjoitusvirheet, jne... )
+    - Api rajapintojen testaus Postmanilla 
