@@ -271,7 +271,17 @@ Tavoitteet mistä projekti lähtee käyntiin:
   ### Tavoitteet (27.1 -> eteenpäin)
   
   - Backend 
-    - Rating systeemi valmiiksi
-    - Mongodb clientin connection erroreiden selvittely
-    - Readme yms selvennys ( tyypit, kirjoitusvirheet, jne... )
-    - Api rajapintojen testaus Postmanilla 
+    - ✅ Rating systeemi valmiiksi
+    - ✅ Mongodb clientin connection erroreiden selvittely
+    - ✅ Readme yms selvennys ( tyypit, kirjoitusvirheet, jne... )
+    - ✅ Api rajapintojen testaus Postmanilla 
+
+  ### Tavoitteet (2.3 -> eteenpäin)
+  
+  - Tärkeää
+    - db_secret tulee piilottaa.
+    - Database network access (Security -> network access -> add ip address).
+    - Userit ja admin oikeus.
+      - Tällä hetkellä käytössä on promote user funktio, joka muuttaa userin adminiksi (Funktio tarvitsee admin oikeudet).
+      - Tulee siis lisätä admin tilejä, jotta funktiota voi käyttää..
+    - Tarvittaessa ohjeet koodin lataamiseen, jotta sitä voi muokata.
